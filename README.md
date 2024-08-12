@@ -1,3 +1,59 @@
+# Netflix_Movies
+
+## Features
+### Login/Sign 
+Sign In/ Sign up form
+   ##
+redirect to browser page
+### Browser( after authentication)
+    - Header 
+    - Main Movie 
+    - Tailer in Backgroud
+       - Title in description
+       - MovieSuggestions 
+         - MovieLists * N
+### NetflixGPT
+    - Search Bar
+    - Movie Suggestion    
+
+
+
+## Install Tailwind CSS
+npm install -D tailwindcss
+##
+npx tailwindcss init
+##
+this line will generate tailwind.config.js file.
+
+### Modify tailwind.config.js file
+
+/** @type {import('tailwindcss').Config} */
+##
+module.exports = {
+  content: [
+    "./src/**/*.{js,jsx,ts,tsx}",
+  ],
+  theme: {
+    extend: {},
+  },
+  plugins: [],
+}
+
+## ShortCuts
+Rafce - react arrow function component export.
+##
+shortcut to auto write component in jsx,js file
+
+### Add the Tailwind directives to your CSS
+
+Add the @tailwind directives for each of Tailwind’s layers to your ./src/index.css file.
+##
+@tailwind base;
+##
+@tailwind components;
+##
+@tailwind utilities;
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
