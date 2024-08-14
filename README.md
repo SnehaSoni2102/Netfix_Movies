@@ -2,9 +2,19 @@
 
 ## Features
 ### Login/Sign 
+-Created React app 
+##
+-configured TailwindCss 
+##
+-Header
+##
+-Routing of Aap
+##
+-Login form 
+##
 Sign In/ Sign up form
-   ##
-redirect to browser page
+##
+
 ### Browser( after authentication)
     - Header 
     - Main Movie 
