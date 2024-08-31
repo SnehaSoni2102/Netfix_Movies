@@ -14,7 +14,8 @@
 ##
 Sign In/ Sign up form
 ##
-
+-form validation
+##
 ### Browser( after authentication)
     - Header 
     - Main Movie 
